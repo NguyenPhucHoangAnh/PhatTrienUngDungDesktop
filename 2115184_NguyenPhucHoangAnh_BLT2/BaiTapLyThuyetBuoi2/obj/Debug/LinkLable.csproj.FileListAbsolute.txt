@@ -1,0 +1,11 @@
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\bin\Debug\BaiTapLyThuyetBuoi2.exe.config
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\bin\Debug\BaiTapLyThuyetBuoi2.exe
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\bin\Debug\BaiTapLyThuyetBuoi2.pdb
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\obj\Debug\LinkLable.csproj.AssemblyReference.cache
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\obj\Debug\LinkLable.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\obj\Debug\LinkLable.frmLinkLable.resources
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\obj\Debug\BaiTapLyThuyetBuoi2.Properties.Resources.resources
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\obj\Debug\LinkLable.csproj.GenerateResource.cache
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\obj\Debug\LinkLable.csproj.CoreCompileInputs.cache
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\obj\Debug\BaiTapLyThuyetBuoi2.exe
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\obj\Debug\BaiTapLyThuyetBuoi2.pdb

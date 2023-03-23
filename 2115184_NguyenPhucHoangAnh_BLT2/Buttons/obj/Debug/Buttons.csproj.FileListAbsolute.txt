@@ -1,0 +1,11 @@
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\Buttons\bin\Debug\Buttons.exe.config
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\Buttons\bin\Debug\Buttons.exe
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\Buttons\bin\Debug\Buttons.pdb
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\Buttons\obj\Debug\Buttons.csproj.AssemblyReference.cache
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\Buttons\obj\Debug\Buttons.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\Buttons\obj\Debug\Buttons.frmButtons.resources
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\Buttons\obj\Debug\Buttons.Properties.Resources.resources
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\Buttons\obj\Debug\Buttons.csproj.GenerateResource.cache
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\Buttons\obj\Debug\Buttons.csproj.CoreCompileInputs.cache
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\Buttons\obj\Debug\Buttons.exe
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\Buttons\obj\Debug\Buttons.pdb
