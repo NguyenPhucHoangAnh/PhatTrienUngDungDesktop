@@ -1,0 +1,11 @@
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoRichTextBox\bin\Debug\DemoRichTextBox.exe.config
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoRichTextBox\bin\Debug\DemoRichTextBox.exe
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoRichTextBox\bin\Debug\DemoRichTextBox.pdb
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoRichTextBox\obj\Debug\DemoRichTextBox.csproj.AssemblyReference.cache
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoRichTextBox\obj\Debug\DemoRichTextBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoRichTextBox\obj\Debug\DemoRichTextBox.Properties.Resources.resources
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoRichTextBox\obj\Debug\DemoRichTextBox.RichTextBox.resources
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoRichTextBox\obj\Debug\DemoRichTextBox.csproj.GenerateResource.cache
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoRichTextBox\obj\Debug\DemoRichTextBox.csproj.CoreCompileInputs.cache
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoRichTextBox\obj\Debug\DemoRichTextBox.exe
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoRichTextBox\obj\Debug\DemoRichTextBox.pdb

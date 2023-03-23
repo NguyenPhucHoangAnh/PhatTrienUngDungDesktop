@@ -1,0 +1,11 @@
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoDateTime\bin\Debug\DemoDateTime.exe.config
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoDateTime\bin\Debug\DemoDateTime.exe
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoDateTime\bin\Debug\DemoDateTime.pdb
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoDateTime\obj\Debug\DemoDateTime.csproj.AssemblyReference.cache
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoDateTime\obj\Debug\DemoDateTime.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoDateTime\obj\Debug\DemoDateTime.DemoDateTime.resources
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoDateTime\obj\Debug\DemoDateTime.Properties.Resources.resources
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoDateTime\obj\Debug\DemoDateTime.csproj.GenerateResource.cache
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoDateTime\obj\Debug\DemoDateTime.csproj.CoreCompileInputs.cache
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoDateTime\obj\Debug\DemoDateTime.exe
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoDateTime\obj\Debug\DemoDateTime.pdb
