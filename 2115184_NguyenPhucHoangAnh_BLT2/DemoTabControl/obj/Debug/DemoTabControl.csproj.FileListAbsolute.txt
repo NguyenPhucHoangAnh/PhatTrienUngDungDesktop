@@ -1,0 +1,11 @@
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoTabControl\bin\Debug\DemoTabControl.exe.config
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoTabControl\bin\Debug\DemoTabControl.exe
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoTabControl\bin\Debug\DemoTabControl.pdb
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoTabControl\obj\Debug\DemoTabControl.csproj.AssemblyReference.cache
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoTabControl\obj\Debug\DemoTabControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoTabControl\obj\Debug\DemoTabControl.DemoTabControl.resources
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoTabControl\obj\Debug\DemoTabControl.Properties.Resources.resources
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoTabControl\obj\Debug\DemoTabControl.csproj.GenerateResource.cache
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoTabControl\obj\Debug\DemoTabControl.csproj.CoreCompileInputs.cache
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoTabControl\obj\Debug\DemoTabControl.exe
+C:\Users\Hoàng Anh\Downloads\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\DemoTabControl\obj\Debug\DemoTabControl.pdb
